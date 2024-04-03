@@ -1,0 +1,4 @@
+Name: Gavin
+Age: 21
+For loop knowledge (1-10): 9
+While loop knowledge (1-10): 9
